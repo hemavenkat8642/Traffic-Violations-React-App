@@ -1,0 +1,11 @@
+.footer-bg {
+  width: 98vw;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  height: 7vh;
+}
+
+.footer-img {
+  width: 50px;
+}

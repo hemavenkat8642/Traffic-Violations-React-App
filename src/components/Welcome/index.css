@@ -1,0 +1,8 @@
+.welcome {
+  min-height: 85vh;
+  width: 30vw;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

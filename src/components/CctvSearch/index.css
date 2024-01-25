@@ -1,0 +1,25 @@
+.search {
+  background-color: aqua;
+  width: 80px;
+  height: 35px;
+  padding: 5px;
+  margin-left: 10px;
+}
+
+.cancel {
+  background-color: rgb(255, 51, 0);
+  width: 80px;
+  height: 35px;
+  padding: 5px;
+  margin-right: 0px;
+}
+
+.btn-cont1 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.link1 {
+  width: 80px;
+}
